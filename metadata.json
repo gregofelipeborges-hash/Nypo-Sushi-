@@ -1,0 +1,6 @@
+{
+  "name": "Nypo Sushi",
+  "description": "Alta gastronomia japonesa em Palmitos, SC. Combinados autorais, uramakis especiais, hot rolls crocantes, pratos quentes e checkout oficial direto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
